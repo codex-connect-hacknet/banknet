@@ -1,3 +1,4 @@
+#firewall_solution = secrettoken
 import socket
 
 def connect_to_server(ip, port):
